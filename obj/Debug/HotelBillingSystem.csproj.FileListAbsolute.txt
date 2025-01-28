@@ -1,0 +1,13 @@
+C:\Users\hello\source\repos\HotelBillingSystem\HotelBillingSystem\bin\Debug\HotelBillingSystem.exe
+C:\Users\hello\source\repos\HotelBillingSystem\HotelBillingSystem\bin\Debug\HotelBillingSystem.exe.config
+C:\Users\hello\source\repos\HotelBillingSystem\HotelBillingSystem\bin\Debug\HotelBillingSystem.pdb
+C:\Users\hello\source\repos\HotelBillingSystem\HotelBillingSystem\obj\Debug\HotelBillingSystem.csproj.AssemblyReference.cache
+C:\Users\hello\source\repos\HotelBillingSystem\HotelBillingSystem\obj\Debug\HotelBillingSystem.FoodEntry.resources
+C:\Users\hello\source\repos\HotelBillingSystem\HotelBillingSystem\obj\Debug\HotelBillingSystem.HotelApp.resources
+C:\Users\hello\source\repos\HotelBillingSystem\HotelBillingSystem\obj\Debug\HotelBillingSystem.Properties.Resources.resources
+C:\Users\hello\source\repos\HotelBillingSystem\HotelBillingSystem\obj\Debug\HotelBillingSystem.csproj.GenerateResource.cache
+C:\Users\hello\source\repos\HotelBillingSystem\HotelBillingSystem\obj\Debug\HotelBillingSystem.csproj.CoreCompileInputs.cache
+C:\Users\hello\source\repos\HotelBillingSystem\HotelBillingSystem\obj\Debug\HotelBillingSystem.exe
+C:\Users\hello\source\repos\HotelBillingSystem\HotelBillingSystem\obj\Debug\HotelBillingSystem.pdb
+C:\Users\hello\source\repos\HotelBillingSystem\HotelBillingSystem\obj\Debug\HotelBillingSystem.SalesBilling.resources
+C:\Users\hello\source\repos\HotelBillingSystem\HotelBillingSystem\obj\Debug\HotelBillingSystem.Search.resources
