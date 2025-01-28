@@ -113,5 +113,8 @@
   <ItemGroup>
     <None Include="Resources\png-clipart-computer-icons-sprite-symbol-github-inc-back-button-angle-ribbon-thumbnail.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

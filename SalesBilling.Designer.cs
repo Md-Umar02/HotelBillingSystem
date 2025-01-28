@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(SalesBilling));
             this.label1 = new System.Windows.Forms.Label();
             this.gv = new System.Windows.Forms.DataGridView();
             this.label2 = new System.Windows.Forms.Label();
@@ -206,7 +205,7 @@
             // back
             // 
             this.back.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.back.Image = ((System.Drawing.Image)(resources.GetObject("back.Image")));
+            this.back.Image = global::HotelBillingSystem.Properties.Resources.arrow;
             this.back.Location = new System.Drawing.Point(21, 23);
             this.back.Name = "back";
             this.back.Size = new System.Drawing.Size(39, 32);
