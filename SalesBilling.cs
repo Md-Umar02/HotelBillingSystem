@@ -229,7 +229,7 @@ namespace HotelBillingSystem
 
         public override string ToString()
         {
-            return Text; // Display food name in dropdown
+            return Text;
         }
     }
 }
