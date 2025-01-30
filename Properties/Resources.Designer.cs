@@ -69,26 +69,5 @@ namespace HotelBillingSystem.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap back {
-            get {
-                object obj = ResourceManager.GetObject("back", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap png_clipart_computer_icons_sprite_symbol_github_inc_back_button_angle_ribbon_thumbnail {
-            get {
-                object obj = ResourceManager.GetObject("png-clipart-computer-icons-sprite-symbol-github-inc-back-button-angle-ribbon-thum" +
-                        "bnail", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
     }
 }

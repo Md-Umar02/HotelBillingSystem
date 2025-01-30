@@ -193,6 +193,10 @@ namespace HotelBillingSystem
                     }
 
                     total.Text = totalAmount.ToString();
+
+                    SqlCommand deleteCmd = new SqlCommand("DELETE FROM tblBilling", con);
+                    deleteCmd.ExecuteNonQuery();
+                    MessageBox.Show("Billing data has been cleared after printing.");
                 }
 
                 con.Close();
@@ -209,6 +213,8 @@ namespace HotelBillingSystem
             previousForm.Show();
             this.Close();
         }
+
+        
     }
     public class ComboBoxItem
     {
